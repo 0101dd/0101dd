@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0101dd&hide=issues,&theme=apprentice&show_icons=true)
+&emsp;&emsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0101dd&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **0101dd/0101dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
